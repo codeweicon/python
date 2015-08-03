@@ -1,0 +1,23 @@
+<Students>
+  <Student Name="张三">
+    <Scores>
+      <math>150</math>
+      <Yuwen>120</Yuwen>
+      <English>100</English>
+    </Scores>
+  </Student>
+  <Student Name="李四">
+    <Scores>
+      <math>90</math>
+      <Yuwen>99</Yuwen>
+      <English>95</English>
+    </Scores>
+  </Student>
+  <Student Name="王五">
+    <Scores>
+      <math>60</math>
+      <Yuwen>66</Yuwen>
+      <English>68</English>
+    </Scores>
+  </Student>
+</Students>
